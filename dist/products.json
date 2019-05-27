@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Roland drum pad",
+      "price": 35,
+      "image": "img/pad.jpg",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate debitis dolor sit, nisi harum esse"
+    },
+    {
+      "id": "2",
+      "title": "Drum sticks",
+      "price": 23,
+      "image": "img/sticks.jpg",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate debitis dolor sit, nisi harum esse"
+    },
+    {
+      "id": "3",
+      "title": "Tambourine",
+      "price": 28,
+      "image": "img/tamb.jpg",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate debitis dolor sit, nisi harum esse"
+    },
+    {
+      "id": "4",
+      "title": "Cymbal",
+      "price": 120,
+      "image": "img/cymbal.jpg",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate debitis dolor sit, nisi harum esse"
+    },
+    {
+      "id": "5",
+      "title": "Tom tom",
+      "price": 650,
+      "image": "img/tom.jpg",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate debitis dolor sit, nisi harum esse"
+    },
+    {
+      "id": "6",
+      "title": "DW Edge Snare",
+      "price": 1050,
+      "image": "img/snare.jpg",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate debitis dolor sit, nisi harum esse"
+    },
+    {
+      "id": "7",
+      "title": "Drummer CD",
+      "price": 15,
+      "image": "img/cd.jpg",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate debitis dolor sit, nisi harum esse"
+    },
+    {
+      "id": "8",
+      "title": "dToy",
+      "price": 10,
+      "image": "img/toy.jpg",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate debitis dolor sit, nisi harum esse"
+    },
+    {
+      "id": "9",
+      "title": "PRO headphones",
+      "price": 430,
+      "image": "img/headphones.jpg",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate debitis dolor sit, nisi harum esse"
+    },
+    {
+      "id": "10",
+      "title": "Bongo drums",
+      "price": 156,
+      "image": "img/bongo.jpg",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate debitis dolor sit, nisi harum esse"
+    },
+    {
+      "id": "11",
+      "title": "Tama drumset",
+      "price": 2500,
+      "image": "img/tama.jpg",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate debitis dolor sit, nisi harum esse"
+    },
+    {
+      "id": "12",
+      "title": "Tama drumset",
+      "price": 30,
+      "image": "img/head.jpg",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate debitis dolor sit, nisi harum esse"
+    }
+  ]
+}
