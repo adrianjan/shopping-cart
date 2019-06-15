@@ -14,7 +14,7 @@ let price = 0;
 // products
 const getProducts = async () => {
   try {
-    let result = await fetch("products.json");
+    let result = await fetch("http://products.json");
     let data = await result.json();
 
     let products = data.items;
